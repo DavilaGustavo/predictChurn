@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a63f5c31-1275-4d4f-a6dd-8fd2586179f4">
+  <img src="https://github.com/user-attachments/assets/743ec1ec-a301-4dc4-af47-f1ac9bedcbc2">
 </p>
 
 # Customer Churn Prediction (Random Forest)
